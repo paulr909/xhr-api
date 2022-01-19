@@ -1,1 +1,1 @@
-# XHR-API
+# HTTP Requests with XHR-API
